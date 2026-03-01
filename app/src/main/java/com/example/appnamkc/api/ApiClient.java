@@ -305,6 +305,7 @@ public class ApiClient {
         public String message;
         public String password;
 
+
         public ForgotPasswordResult(String message, String password) {
             this.message = message;
             this.password = password;
